@@ -10,7 +10,8 @@ Global repository that links to all Hyblab projects to which Polytech Nantes par
 - [Datajournalism 2014](https://github.com/mperreir/Hyblab2014)
 - [Datajournalism 2015](https://github.com/mperreir/Hyblab2015)
 - [Datajournalism 2016](https://github.com/mperreir/Hyblab2016)
-- [Datajournalism 2017](https://github.com/mperreir/HyblabDDJ2017) (ongoing)
+- [Datajournalism 2017](https://github.com/mperreir/HyblabDDJ2017)
+- [Presidentielle 2017](https://github.com/mperreir/HyblabPresidentielle2017) (ongoing)
 
 ### Datasport
 
