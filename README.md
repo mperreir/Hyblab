@@ -20,6 +20,9 @@ Global repository that links to all Hyblab projects to which Polytech Nantes par
 - [Datasport 2015](https://github.com/mperreir/DataSport2015)
 - [Datasport 2016](https://github.com/mperreir/DataSport2016)
 
+### Interactive Storytelling
+- [Storytelling 2020](https://github.com/mperreir/HyblabStory2020)
+
 ## Technological collaborative Wiki
 
 This [Wiki](https://github.com/mperreir/Hyblab/wiki) (in French) provides technological resources that can be useful for Hyblab projects. 
