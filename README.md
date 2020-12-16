@@ -23,6 +23,9 @@ Global repository that links to all Hyblab projects to which Polytech Nantes par
 ### Interactive Storytelling
 - [Storytelling 2020](https://github.com/mperreir/HyblabStory2020)
 
+### Interactive Data-Services
+- [Hyblab 2021](https://github.com/mperreir/Hyblab2021)
+
 ## Technological collaborative Wiki
 
 This [Wiki](https://github.com/mperreir/Hyblab/wiki) (in French) provides technological resources that can be useful for Hyblab projects. 
