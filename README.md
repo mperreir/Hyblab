@@ -6,7 +6,7 @@ Global repository that links to all Hyblab projects to which Polytech Nantes par
 
 ### Datajournalism
 
-- Datajournalism 2013 : source code not available on github
+- [Datajournalism 2013](https://github.com/mperreir/Hyblab2013)
 - [Datajournalism 2014](https://github.com/mperreir/Hyblab2014)
 - [Datajournalism 2015](https://github.com/mperreir/Hyblab2015)
 - [Datajournalism 2016](https://github.com/mperreir/Hyblab2016)
